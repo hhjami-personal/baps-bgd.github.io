@@ -6,7 +6,7 @@
 name: Bangladesh Association of Problem Setters (BAPS)
 
 # Short bio or description (displayed in the header)
-description: BAPS is responsible for problem-setting and judigng in ICPC and National level contests
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/baps-bgd/baps-bgd.github.io/master/images/baps-logo-improved-v4.png
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/baps-bgd/baps-bgd.github.io/master/ima
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: baps.bgd@gmail.com
+  facebook: BAPS.BGD
   flickr:
-  github: baps-bgd
+  github: baps-bgd/baps-bgd.github.io
   instagram:
   linkedin:
   pinterest:
