@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+BAPS is reponsible for juding and problem-setting of ICPC Dhaka Regional and other National level programming contests in Bangldesh. This is the official blog of BAPS. This blog holds the guideline for hosts to work with BAPS. Also, the site holds important resources for those who wants to progress as a top level contestant.
 
-### More Information
+### Contact us
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[baps.bgd@gmail.com](mailto:baps.bgd@gmail.com)
